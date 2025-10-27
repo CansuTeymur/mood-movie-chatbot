@@ -1,6 +1,6 @@
 # **Mood Movie Chatbot** 🎬
 
-Mood Movie Chatbot, kullanıcıdan aldığı metin üzerinden ruh halini analiz eder ve uygun film önerileri üretir.
+Mood Movie Chatbot, kullanıcıdan aldığı metin üzerinden ruh halini analiz eder ve uygun film önerileri önerir.
 Nasıl hissettiğinizi söyleyin, bot size o duyguya en uygun iki filmi hemen önersin!
 
 
